@@ -59,3 +59,9 @@ def loadDirectedWeightedGraph( name ):
   f.close()
   return (V,L)
 
+
+def readSolution(name):
+    """Read the expected solution from the first line of the graph file"""
+    with open(name, 'r') as f:
+        line = f.readline()
+        return line.split()[-1]
