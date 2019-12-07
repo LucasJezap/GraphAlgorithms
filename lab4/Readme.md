@@ -1,4 +1,4 @@
-# Laboratories 4
+# Laboratories 4 & 5
 In this lab, I wrote an algorithm to determine if graph is chordal, find max clique in chordal graph, color chordal graph, find minimum vertex cover in chordal graph and also determine if graph is interval.  
 Written in Python  
 <a href="https://github.com/LucasJezap/GraphAlgorithms/tree/master/lab4/Ex1.py"> Chordal check  
